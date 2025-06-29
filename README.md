@@ -40,11 +40,32 @@
 
 ## 📫 Contact
 
-- ✉️ Email: [angelcueva241@gmail.com](mailto:angelcueva241@gmail.com)
-- 💼 LinkedIn: [Angel Cueva](https://www.linkedin.com/in/angelcueva/?trk=public-profile-join-page)
-- 🐦 Twitter: [@AngelCu34627794](https://x.com/AngelCu34627794)
-- 📸 Instagram: [https.xngxll](https://www.instagram.com/https.xngxll/)
-- ▶️ YouTube: [@ajoan25](https://www.youtube.com/@ajoan25)
+[![Email](https://img.shields.io/badge/Email-angelcueva241@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelcueva241@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Angel%20Cueva-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelcueva)
+[![Twitter](https://img.shields.io/badge/Twitter-@AngelCu34627794-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AngelCu34627794)
+[![YouTube](https://img.shields.io/badge/YouTube-ajoan25-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ajoan25)
+[![Instagram](https://img.shields.io/badge/Instagram-https.xngxll-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/https.xngxll)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajcuevap&show_icons=true&theme=radical" alt="Angel Cueva's GitHub Stats" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=ajcuevap&theme=radical" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajcuevap&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+</p>
+
+---
+
+## 🧭 Goals
+
+- ✅ Contribute to impactful open-source projects.
+- 🚀 Master DevOps and CI/CD workflows.
+- 📝 Write clear and comprehensive documentation.
+- 🌐 Build and deploy my personal portfolio website.
+- 💼 Gain experience through internships and professional projects.
 
 ---
 
@@ -86,8 +107,32 @@
 
 ## 📫 Contacto
 
-- ✉️ Correo: [angelcueva241@gmail.com](mailto:angelcueva241@gmail.com)
-- 💼 LinkedIn: [Angel Cueva](https://www.linkedin.com/in/angelcueva/?trk=public-profile-join-page)
-- 🐦 Twitter: [@AngelCu34627794](https://x.com/AngelCu34627794)
-- 📸 Instagram: [https.xngxll](https://www.instagram.com/https.xngxll/)
-- ▶️ YouTube: [@ajoan25](https://www.youtube.com/@ajoan25)
+[![Email](https://img.shields.io/badge/Email-angelcueva241@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelcueva241@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Angel%20Cueva-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelcueva)
+[![Twitter](https://img.shields.io/badge/Twitter-@AngelCu34627794-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AngelCu34627794)
+[![YouTube](https://img.shields.io/badge/YouTube-ajoan25-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ajoan25)
+[![Instagram](https://img.shields.io/badge/Instagram-https.xngxll-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/https.xngxll)
+
+---
+
+## 📈 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajcuevap&show_icons=true&theme=radical" alt="Angel Cueva's GitHub Stats" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=ajcuevap&theme=radical" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajcuevap&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+</p>
+
+---
+
+## 🧭 Objetivos
+
+- ✅ Contribuir en proyectos open-source de impacto.
+- 📝 Escribir documentación clara y completa.
+- 🌐 Crear y desplegar mi página web de portafolio personal.
+- 💼 Adquirir experiencia con prácticas profesionales y proyectos reales.
+
+---
+
+
